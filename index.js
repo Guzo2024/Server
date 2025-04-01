@@ -13,7 +13,7 @@ const PORT = 5000;
 
 
 
-app.use(cors({ origin: 'http://burgerguidee.netlify.app', credentials: true }));
+app.use(cors({ origin: 'https://burgerguidee.netlify.app', credentials: true }));
 
 app.use(express.json());
 app.use(cookieParser());
