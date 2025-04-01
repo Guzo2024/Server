@@ -1,0 +1,1196 @@
+[{
+  "_id": {
+    "$oid": "65eb1c5eaae15049789b04a8"
+  },
+  "store": {
+    "$oid": "65e89bea4cb1380766668ed5"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice Burger!",
+  "cleanliness": 3,
+  "taste": 5,
+  "service": 5,
+  "priceValue": 4,
+  "ambience": 3,
+  "waitTime": 2,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-08T14:10:38.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eb1eb012ef9524cd1144f8"
+  },
+  "store": {
+    "$oid": "65e89cbc4cb1380766668ed7"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "first comment",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 5,
+  "waitTime": 3,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-08T14:20:32.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ec26351aee25f35b127975"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "This was a very good place to be were friendly personal",
+  "cleanliness": 3,
+  "taste": 3,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 3,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-09T09:04:53.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed8d7e24f674c7b5aaf657"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65ed8cf824f674c7b5aaf5f8"
+  },
+  "comment": "",
+  "cleanliness": 4,
+  "taste": 3,
+  "service": 5,
+  "priceValue": 4,
+  "ambience": 2,
+  "waitTime": 5,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-10T10:37:50.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eecf5dcb656e0c06867132"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "not so good",
+  "cleanliness": 2,
+  "taste": 2,
+  "service": 1,
+  "priceValue": 4,
+  "ambience": 1,
+  "waitTime": 3,
+  "locationRating": 2,
+  "date": {
+    "$date": "2024-03-11T09:31:09.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eeee214c8bf6d5799bdbba"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "",
+  "cleanliness": 3,
+  "taste": 3,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 5,
+  "waitTime": 5,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-11T11:42:25.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eeee354c8bf6d5799bdbd6"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "",
+  "cleanliness": 3,
+  "taste": 3,
+  "service": 1,
+  "priceValue": 2,
+  "ambience": 2,
+  "waitTime": 2,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-11T11:42:45.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eeee494c8bf6d5799bdbf2"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "not good",
+  "cleanliness": 5,
+  "taste": 3,
+  "service": 3,
+  "priceValue": 3,
+  "ambience": 5,
+  "waitTime": 3,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-11T11:43:05.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eef46e4c8bf6d5799bdc9c"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "We would like to emphasize the importance of providing a fair review for our BurgerStore. Our community and future customers rely on your honest opinions to make informed decisions about their visit.   Fair reviews not only assist others in selecting the right BurgerStore but also help us continuously improve our service and products. Your feedback is invaluable and enables us to respond to your needs, creating a better shopping experience.",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 2,
+  "priceValue": 4,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-11T12:09:18.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eefe8b4c8bf6d5799bdd9c"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Test nr 20000000",
+  "cleanliness": 5,
+  "taste": 5,
+  "service": 5,
+  "priceValue": 5,
+  "ambience": 5,
+  "waitTime": 5,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-11T12:52:27.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eefe9c4c8bf6d5799bddb8"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "",
+  "cleanliness": 5,
+  "taste": 5,
+  "service": 5,
+  "priceValue": 5,
+  "ambience": 5,
+  "waitTime": 5,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-11T12:52:44.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f020d9857059c139cb0454"
+  },
+  "store": {
+    "$oid": "65e8966a4cb1380766668ece"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place!",
+  "cleanliness": 3,
+  "taste": 5,
+  "service": 5,
+  "priceValue": 5,
+  "ambience": 4,
+  "waitTime": 2,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:31:05.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f02132857059c139cb0485"
+  },
+  "store": {
+    "$oid": "65e8966a4cb1380766668ece"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place but also expensive!",
+  "cleanliness": 3,
+  "taste": 5,
+  "service": 3,
+  "priceValue": 1,
+  "ambience": 4,
+  "waitTime": 2,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:32:34.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f02144857059c139cb048d"
+  },
+  "store": {
+    "$oid": "65e897354cb1380766668ed0"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place but also expensive!",
+  "cleanliness": 3,
+  "taste": 5,
+  "service": 3,
+  "priceValue": 1,
+  "ambience": 4,
+  "waitTime": 2,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:32:52.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f02193857059c139cb04d1"
+  },
+  "store": {
+    "$oid": "65e897354cb1380766668ed0"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:34:11.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f021a1857059c139cb04d6"
+  },
+  "store": {
+    "$oid": "65e898454cb1380766668ed2"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:34:25.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f021b5857059c139cb04dc"
+  },
+  "store": {
+    "$oid": "65e89da24cb1380766668ed9"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:34:45.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f021ca857059c139cb04e6"
+  },
+  "store": {
+    "$oid": "65e89e794cb1380766668edb"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:35:06.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f021d9857059c139cb04ec"
+  },
+  "store": {
+    "$oid": "65e89f174cb1380766668edd"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:35:21.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f021f3857059c139cb04f2"
+  },
+  "store": {
+    "$oid": "65e8a08e4cb1380766668edf"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:35:47.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f02201857059c139cb04f8"
+  },
+  "store": {
+    "$oid": "65e8a5284cb1380766668ee2"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:36:01.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f02210857059c139cb04fe"
+  },
+  "store": {
+    "$oid": "65e8abcc4cb1380766668ee5"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:36:16.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0221c857059c139cb0504"
+  },
+  "store": {
+    "$oid": "65e8ac494cb1380766668ee7"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:36:28.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0222c857059c139cb050a"
+  },
+  "store": {
+    "$oid": "65e8acd34cb1380766668ee9"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:36:44.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f02236857059c139cb050f"
+  },
+  "store": {
+    "$oid": "65e8ad1f4cb1380766668eeb"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T09:36:54.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f036e859ff531cccaceb08"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "This place was very good. The Service was great but i missed some vegan food",
+  "cleanliness": 3,
+  "taste": 4,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 5,
+  "waitTime": 5,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-12T11:05:12.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f06858119c279ff4ecbe57"
+  },
+  "store": {
+    "$oid": "65e8966a4cb1380766668ece"
+  },
+  "user": {
+    "$oid": "65f06829119c279ff4ecbe39"
+  },
+  "comment": "Great place, amazing taste!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 5,
+  "priceValue": 4,
+  "ambience": 5,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T14:36:08.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0738f05c56f9efe448363"
+  },
+  "store": {
+    "$oid": "65e8966a4cb1380766668ece"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Realy Expensive but i meet Gandalf ",
+  "cleanliness": 3,
+  "taste": 3,
+  "service": 3,
+  "priceValue": 1,
+  "ambience": 3,
+  "waitTime": 1,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-12T15:23:59.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0767205c56f9efe4483d1"
+  },
+  "store": {
+    "$oid": "65e898454cb1380766668ed2"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "It was good. The Burgers are a amazing. Realy Cool. Very friendly, cool Location",
+  "cleanliness": 4,
+  "taste": 3,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 3,
+  "waitTime": 3,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T15:36:18.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0787405c56f9efe448475"
+  },
+  "store": {
+    "$oid": "65e897354cb1380766668ed0"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": " very cool location and very tasty a wide selection of burgers - but extrem expensive",
+  "cleanliness": 5,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 2,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T15:44:52.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0792d05c56f9efe4484ba"
+  },
+  "store": {
+    "$oid": "65e8a08e4cb1380766668edf"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Cool People, cool Burger all my dreams come be true",
+  "cleanliness": 5,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 5,
+  "ambience": 5,
+  "waitTime": 5,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T15:47:57.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f07a1b4b291aec52e4b83d"
+  },
+  "store": {
+    "$oid": "65e898454cb1380766668ed2"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Fantastico - Bene Bene",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 5,
+  "priceValue": 5,
+  "ambience": 4,
+  "waitTime": 5,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T15:51:55.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f07ca8278652d3d2bae78e"
+  },
+  "store": {
+    "$oid": "65e898454cb1380766668ed2"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "good burgers",
+  "cleanliness": 5,
+  "taste": 5,
+  "service": 5,
+  "priceValue": 5,
+  "ambience": 4,
+  "waitTime": 5,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T16:02:48.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f07cd7278652d3d2bae7aa"
+  },
+  "store": {
+    "$oid": "65e898454cb1380766668ed2"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Nice Burger - Cool Location but Expensive",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T16:03:35.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f07cf9278652d3d2bae7c6"
+  },
+  "store": {
+    "$oid": "65e898454cb1380766668ed2"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Realy cool location.",
+  "cleanliness": 5,
+  "taste": 5,
+  "service": 5,
+  "priceValue": 4,
+  "ambience": 5,
+  "waitTime": 5,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-12T16:04:09.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f07da0278652d3d2bae7e2"
+  },
+  "store": {
+    "$oid": "65e89cbc4cb1380766668ed7"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Crazy Burgers Wonderful",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 3,
+  "priceValue": 4,
+  "ambience": 5,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T16:06:56.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f08169da8a07cc558780b2"
+  },
+  "store": {
+    "$oid": "65e89f174cb1380766668edd"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "First of all, I must say that the selection of burgers at \"Burger Bliss\" is truly impressive. From classic beef burgers to vegetarian options, there is something for everyone. I opted for the \"Bliss Deluxe\" burger with juicy beef, bacon, and cheese. Unfortunately, I was disappointed with the quality of the meat. It seemed somewhat dry and over-seasoned, detracting from the overall experience.  The sides were also not particularly noteworthy. The fries were average and could benefit from better texture and seasoning. Additionally, the selection of sauces was nothing special, although I appreciate the attempt to offer different flavors.  As for the service, the staff was friendly but not particularly attentive. It took a while for me to be served, and my order was not taken accurately. Improvements in efficiency and attention to customers would be desirable here.",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 5,
+  "priceValue": 4,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-12T16:23:05.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f081beda8a07cc558780fa"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "",
+  "cleanliness": 4,
+  "taste": 3,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 3,
+  "waitTime": 4,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-12T16:24:30.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f08a498a7b7d304133b616"
+  },
+  "store": {
+    "$oid": "65e89da24cb1380766668ed9"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "it was good but i know some better places",
+  "cleanliness": 3,
+  "taste": 3,
+  "service": 2,
+  "priceValue": 4,
+  "ambience": 2,
+  "waitTime": 3,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-12T17:00:57.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f09e9347bf6e0e0c6b7f4a"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "It was a  pleasure",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 3,
+  "priceValue": 4,
+  "ambience": 3,
+  "waitTime": 4,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-12T18:27:31.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f15a54b9f620d84b2abf8f"
+  },
+  "store": {
+    "$oid": "65e9f086ec18694ac70b0851"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-13T07:48:36.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1764981cf705097cae5fd"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "This Store was realy cool, with friendly Personal",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 3,
+  "waitTime": 4,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-13T09:47:53.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f17d1c81cf705097cae909"
+  },
+  "store": {
+    "$oid": "65e9b564f141e0ecf854ce2a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Cool Store",
+  "cleanliness": 3,
+  "taste": 3,
+  "service": 3,
+  "priceValue": 4,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-13T10:17:00.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f17d3d81cf705097cae927"
+  },
+  "store": {
+    "$oid": "65e9b564f141e0ecf854ce2a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Olly is the King",
+  "cleanliness": 3,
+  "taste": 4,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-13T10:17:33.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1808e6fa4f2d031f27a5d"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Good Stuf, cheap",
+  "cleanliness": 5,
+  "taste": 4,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-13T10:31:42.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b53900a90f453d591cc4"
+  },
+  "store": {
+    "$oid": "65e9b564f141e0ecf854ce2a"
+  },
+  "user": {
+    "$oid": "65ed8cf824f674c7b5aaf5f8"
+  },
+  "comment": "Good Burgers and a very cool ChilliCheese Sauce. The Burgers are Handmande and frech. ",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 5,
+  "priceValue": 5,
+  "ambience": 3,
+  "waitTime": 5,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-13T14:16:25.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b90e00a90f453d591f37"
+  },
+  "store": {
+    "$oid": "65e897354cb1380766668ed0"
+  },
+  "user": {
+    "$oid": "65e71561f5813afa05eba4de"
+  },
+  "comment": "Nice and friendly place and Burgers were amazing!",
+  "cleanliness": 4,
+  "taste": 5,
+  "service": 4,
+  "priceValue": 3,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-13T14:32:46.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eade64455a09bbbc308f10"
+  },
+  "store": {
+    "$oid": "65ed90f524f674c7b5aaf708"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "Nice Burgers! Would love to visit again!",
+  "cleanliness": 5,
+  "taste": 4,
+  "service": 5,
+  "priceValue": 5,
+  "ambience": 4,
+  "waitTime": 5,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-08T09:46:12.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1e8a9f5613514dfb296fc"
+  },
+  "store": {
+    "$oid": "65e89e794cb1380766668edb"
+  },
+  "user": {
+    "$oid": "65f1b93600a90f453d591f68"
+  },
+  "comment": "Excelente personal",
+  "cleanliness": 4,
+  "taste": 3,
+  "service": 3,
+  "priceValue": 4,
+  "ambience": 3,
+  "waitTime": 4,
+  "locationRating": 4,
+  "date": {
+    "$date": "2024-03-13T17:55:53.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2afe3048e4d7bae06dfcf"
+  },
+  "store": {
+    "$oid": "65e89cbc4cb1380766668ed7"
+  },
+  "user": {
+    "$oid": "65f1b93600a90f453d591f68"
+  },
+  "comment": "nice place to be with family",
+  "cleanliness": 4,
+  "taste": 3,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 3,
+  "waitTime": 4,
+  "locationRating": 3,
+  "date": {
+    "$date": "2024-03-14T08:05:55.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2c4c43b175a02c7f49c47"
+  },
+  "store": {
+    "$oid": "65e8916f6a48b04b57c5a11a"
+  },
+  "user": {
+    "$oid": "65e04130af763fa51f5169b3"
+  },
+  "comment": "WBS TEST",
+  "cleanliness": 4,
+  "taste": 4,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 4,
+  "waitTime": 4,
+  "locationRating": 5,
+  "date": {
+    "$date": "2024-03-14T09:35:00.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eae0c95bac3eb30ae07804"
+  },
+  "store": {
+    "$oid": "65e897354cb1380766668ed0"
+  },
+  "user": {
+    "$oid": "67eae0805bac3eb30ae077d2"
+  },
+  "comment": "nice shop",
+  "cleanliness": 4,
+  "taste": 2,
+  "service": 4,
+  "priceValue": 4,
+  "ambience": 3,
+  "waitTime": 3,
+  "locationRating": 4,
+  "date": {
+    "$date": "2025-03-31T18:36:57.514Z"
+  },
+  "__v": 0
+}]

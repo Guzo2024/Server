@@ -1,0 +1,434 @@
+[
+  {
+    "_id": {
+      "$oid": "65e8916f6a48b04b57c5a11a"
+    },
+    "name": "Burger City Köpenick",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        50.06873217473233,
+        8.645718760544998
+      ]
+    },
+    "address": {
+      "street": "Mörfelder Landstraße 362",
+      "zipCode": "60528",
+      "city": "Frankfurt am Main"
+    },
+    "website": "https://www.burgercity.berlin",
+    "phonenumbers": [
+      "030992112050"
+    ],
+    "images": "https://s3.r29static.com/bin/entry/4bd/0,0,2000,1050/x/1755201/image.png",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e8966a4cb1380766668ece"
+    },
+    "name": "Ruff's Burger & Bar Glockenbach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        48.8583,
+        2.2923
+      ]
+    },
+    "address": {
+      "street": "Müllerstraße 56",
+      "zipCode": "80469 ",
+      "city": ",  München"
+    },
+    "website": "https://www.ruffsburger.de",
+    "phonenumbers": [
+      "8912253443"
+    ],
+    "images": "https://www.ruffsburger.de/wp-content/uploads/2022/09/Ruffs-Burger-restaurant-muenchen-glockenbach.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e897354cb1380766668ed0"
+    },
+    "name": "HANS IM GLÜCK - MÜNCHEN",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        48.13650162225195,
+        11.578270366855566
+      ]
+    },
+    "address": {
+      "street": "Tal 10",
+      "zipCode": "80331",
+      "city": "München"
+    },
+    "website": "https://hansimglueck-burgergrill.de",
+    "phonenumbers": [
+      "8989051762"
+    ],
+    "images": "https://hansimglueck-burgergrill.de/fileadmin/Standortseiten_-_Bilder/muenchen-sudwink1.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e898454cb1380766668ed2"
+    },
+    "name": "Burger House Obersendling",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        48.095188,
+        11.522188
+      ]
+    },
+    "address": {
+      "street": "Kistlerhofstraße 86 ",
+      "zipCode": "81379",
+      "city": ",  München"
+    },
+    "website": "https://eatthestreet.de",
+    "phonenumbers": [
+      "8952011037"
+    ],
+    "images": "https://eatthestreet.de/wp-content/uploads/Burger_belegen_Zubereitung-1024x683.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e89bea4cb1380766668ed5"
+    },
+    "name": "Downtown Burger",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        48.139187,
+        11.568687
+      ]
+    },
+    "address": {
+      "street": "Kapellenstraße 1",
+      "zipCode": "80333 ",
+      "city": "München"
+    },
+    "website": "https://www.facebook.com/burgerdowntown",
+    "phonenumbers": [
+      "1792392654"
+    ],
+    "images": "https://qul.imgix.net/5398b950-856e-44a1-a823-9a92876e08d4/239622_sld.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e89cbc4cb1380766668ed7"
+    },
+    "name": "BURGERAMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.510188,
+        13.459688
+      ]
+    },
+    "address": {
+      "street": "Krossener Str. 21-22",
+      "zipCode": "10245",
+      "city": "Berlin"
+    },
+    "website": "http://www.burgeramt.com/",
+    "phonenumbers": [
+      "3075540001"
+    ],
+    "images": "https://qul.imgix.net/f886627a-6fb3-4c92-a45c-40a7f877a871/349403_sld.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e89da24cb1380766668ed9"
+    },
+    "name": "Shiso Burger",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.527313,
+        13.398813
+      ]
+    },
+    "address": {
+      "street": "Auguststraße 29C",
+      "zipCode": "10119 ",
+      "city": "Berlin"
+    },
+    "website": "https://www.shisoburger.com/",
+    "phonenumbers": [
+      "3088944687"
+    ],
+    "images": "https://www.livingbbq.de/wp-content/uploads/2015/07/LivingBBQ-Shizo-BurgerAu%C3%9Fenansicht-Shizo.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e89e794cb1380766668edb"
+    },
+    "name": "THRONBURGER",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.505813,
+        13.470187
+      ]
+    },
+    "address": {
+      "street": "Neue Bahnhofstraße 7A",
+      "zipCode": "10245  ",
+      "city": "Berlin"
+    },
+    "website": "http://www.thronburger.de/",
+    "phonenumbers": [
+      "3020050905"
+    ],
+    "images": "https://sattundfroh.de/wp-content/uploads/2017/06/Burger-Ring-3.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e89f174cb1380766668edd"
+    },
+    "name": "Supreme Burger Grill & Bar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.524563,
+        13.395312
+      ]
+    },
+    "address": {
+      "street": "Oranienburger Str. 26",
+      "zipCode": "10117   ",
+      "city": "Berlin"
+    },
+    "website": "http://www.supremeberlin.de/",
+    "phonenumbers": [
+      "3027874714"
+    ],
+    "images": "https://imageproxy.wolt.com/venue/615709c694a48eb524a11e3d/916262a6-5380-11ec-bcd5-62b06bd12624_supreme_burger_close_up_2.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e8a08e4cb1380766668edf"
+    },
+    "name": "Berlinburger International",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.486438,
+        13.430937
+      ]
+    },
+    "address": {
+      "street": "Pannierstraße 5",
+      "zipCode": "12047   ",
+      "city": "Berlin"
+    },
+    "website": "https://www.bbi-berlinburgerinternational-berlin.de/",
+    "phonenumbers": [
+      "1604826505"
+    ],
+    "images": "https://jumpberlin.com/wp-content/uploads/2018/05/20180505_190503.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e8a5284cb1380766668ee2"
+    },
+    "name": "HANS IM GLÜCK - BERLIN Mercedes Platz",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.504812,
+        13.442937
+      ]
+    },
+    "address": {
+      "street": "Hedwig-Wachenheim-Straße 12",
+      "zipCode": "10243",
+      "city": "Berlin"
+    },
+    "website": "https://hansimglueck-burgergrill.de",
+    "phonenumbers": [
+      "030403635700"
+    ],
+    "images": "https://imageproxy.wolt.com/venue/60c1edec9bc2eac3ef5b0ac6/72b448ec-caa0-11eb-9125-aa3793cc5e18_6cb16020_9ebc_11eb_a3f6_5a15eb08d453_close_up.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e8abcc4cb1380766668ee5"
+    },
+    "name": "Bundes Burger",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.492562,
+        13.331312
+      ]
+    },
+    "address": {
+      "street": "Bundesallee 199",
+      "zipCode": "10717",
+      "city": "Berlin"
+    },
+    "website": "http://www.bundesburgerberlin.de/",
+    "phonenumbers": [
+      "15166349012"
+    ],
+    "images": "https://media-cdn.tripadvisor.com/media/photo-s/29/cb/51/b3/mexican-burger.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e8ac494cb1380766668ee7"
+    },
+    "name": "Vikings Burger",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.497187,
+        13.293062
+      ]
+    },
+    "address": {
+      "street": "Kurfürstendamm 132A",
+      "zipCode": "10711",
+      "city": "Berlin"
+    },
+    "website": "https://vikingsburger.de/",
+    "phonenumbers": [
+      "3023362799"
+    ],
+    "images": "https://media-cdn.tripadvisor.com/media/photo-s/1c/10/8d/e5/ragnar-lothbrok.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e8acd34cb1380766668ee9"
+    },
+    "name": "Bobsek Burger",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.486812,
+        13.323812
+      ]
+    },
+    "address": {
+      "street": "Berliner Straße 30-31",
+      "zipCode": "10715",
+      "city": "Berlin"
+    },
+    "website": "http://www.bobsek.de/",
+    "phonenumbers": [
+      "3088623666"
+    ],
+    "images": "https://media-cdn.tripadvisor.com/media/photo-s/13/0e/9f/23/appenzeller-burger-menu.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e8ad1f4cb1380766668eeb"
+    },
+    "name": "Burgers Berlin",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.494312,
+        13.353562
+      ]
+    },
+    "address": {
+      "street": "Goltzstraße 33",
+      "zipCode": "10781",
+      "city": "Berlin"
+    },
+    "website": "https://burgersberlin.de/",
+    "phonenumbers": [
+      "3023927363"
+    ],
+    "images": "https://media-cdn.tripadvisor.com/media/photo-s/08/2f/17/57/burgers-berlin.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e9b38d5f97bbaf491860c2"
+    },
+    "name": "Onur's Burger",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        52.46097253197291,
+        13.541098429198632
+      ]
+    },
+    "address": {
+      "street": "Weißkopfstr. 16",
+      "zipCode": "12453",
+      "city": "Berlin"
+    },
+    "website": "https://www.wbscodingschool.com/",
+    "phonenumbers": [
+      "+30123456789"
+    ],
+    "images": "https://i.ibb.co/zsSyKxW/wbs.png",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e9f086ec18694ac70b0851"
+    },
+    "name": "Taste My Burger",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        48.1573271264317,
+        11.561831517306569
+      ]
+    },
+    "address": {
+      "street": "Heßstr. 90",
+      "zipCode": "80797 ",
+      "city": "München"
+    },
+    "website": "https://www.tastemyburger.com/",
+    "phonenumbers": [
+      "+498921245465"
+    ],
+    "images": "https://www.mrmuenchen.com/backend/filemanager/files/shares/Toplisten/Burger/Burger_House_Mr__M__nchen_Foto_Burger_House.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ed90f524f674c7b5aaf708"
+    },
+    "name": "PETER PANE Burgergrill & Bar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        50.121540537497786,
+        8.681068760176142
+      ]
+    },
+    "address": {
+      "street": " Eschenheimer Anlage 40",
+      "zipCode": "60318",
+      "city": "Frankfurt am Main"
+    },
+    "website": "https://peterpane.de",
+    "phonenumbers": [
+      "+49 69 90557640"
+    ],
+    "images": "https://locator.uberall.com/uberall-userpics-prod/3044572/medium_zsdQMnlNN8.png",
+    "__v": 0
+  }
+]
